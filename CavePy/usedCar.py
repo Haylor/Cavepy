@@ -47,17 +47,18 @@ def checkCave(chosenCave):
                 print("You should feel embarassed, the old man was a mechanic from Sweden.")
                     
         elif nextCave =="n": # pair with second
-            print("You drive around for a couple days until eventually your CV joint give, ruining your entire car.")
+            print("You drive around for a couple days until eventually your CV joints give, ruining your entire car.")
             print("You just destoryed a cult classes, feel bad.")
             print("BUT WAIT YOU CAN STILL BE SAVED.. Did you get CAA? Y/N")
             nextCave = raw_input()
             
             if nextCave == "Y" or nextCave=="y":#3
-                print("CAA towed your car to a nearby mechanic because of the rarity of your Volvo")
+                print("CAA towed your car to a nearby mechanic and because of the rarity of your Volvo")
                 print ("an old man fixes it for little to no cost!")
                 print ("What a great guy.")
             else:
-                print("Why would you, right? It's a friggin 1991 VOLVO! I don't blame you.. But the Volvo guys will")
+                print("Why would you, right? It's a friggin 1991 VOLVO! Pour some gas on it and set it on fire")
+                print("I don't blame you... But the Volvo guys will")
                 print("And since the writer of this program is in several Volvo Clubs.. SHAME ON YOU!!")
             
             '''nextCave = raw_input()
